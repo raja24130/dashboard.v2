@@ -1,3 +1,5 @@
 streamlit
 pandas
 plost
+scikit-learn
+pickle
